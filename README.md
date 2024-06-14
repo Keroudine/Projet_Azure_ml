@@ -1,2 +1,2 @@
-# Projet_Azure_ml
-Prédire - compte tenu des différentes variables online et offline - si la Customer Journey se terminera par une conversion ou non
+# Projet Azure ML
+Le projet Azure ML que j'ai réalisé consistait à prédire si une Customer Journey se terminera par une conversion ou non, en utilisant des algorithmes de classification et de clustering. J'ai nettoyé les données, entraîné des modèles de régression logistique et d'arbre de décision boosté, déployé le meilleur modèle en tant que service web, et classé les customer journeys en clusters avec des caractéristiques similaires. Ce projet m'a permis de mettre en pratique mes compétences en machine learning et en déploiement de modèles, tout en explorant les fonctionnalités avancées de Microsoft Azure ML.
